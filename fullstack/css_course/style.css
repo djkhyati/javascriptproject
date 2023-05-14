@@ -1,0 +1,17 @@
+*,html,body{
+  font-size: 18px;  
+}
+
+.parent{
+    text-align: center;
+    display: flex;
+    flex-direction: none;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-size: 2rem;
+}
+h1{
+    border-bottom:3px solid brown ;
+    text-align: center;
+    font-size: 120%;
+}
